@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Remote</string>
+    <string name="service_desc">Lets this app show a cursor, click, scroll and type on this TV when it is controlled from your phone.</string>
+</resources>
